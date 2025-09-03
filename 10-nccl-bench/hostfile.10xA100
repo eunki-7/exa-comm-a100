@@ -1,0 +1,6 @@
+# 5 nodes × 2 slots (ranks) = 10 GPUs total
+node0 slots=2
+node1 slots=2
+node2 slots=2
+node3 slots=2
+node4 slots=2
