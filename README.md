@@ -1,9 +1,8 @@
-# GPU RDMA Communication Lab — **10× A100 Edition**
+# GPU RDMA Communication Lab — **8×A100 Edition**
 
 <p align="left">
   <!-- Replace OWNER/REPO with your GitHub path, e.g., eunki-7/gpu-rdma-comm-lab -->
   <a href="https://github.com/OWNER/REPO/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/OWNER/REPO?style=for-the-badge"></a>
-  <a href="https://github.com/OWNER/REPO/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/OWNER/REPO?style=for-the-badge"></a>
   <a href="https://github.com/OWNER/REPO/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/OWNER/REPO?style=for-the-badge"></a>
   <a href="https://github.com/OWNER/REPO/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"></a>
   <img alt="GPU" src="https://img.shields.io/badge/GPU-10×A100-blue?style=for-the-badge">
