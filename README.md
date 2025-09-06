@@ -1,4 +1,4 @@
-# GPU RDMA Communication Lab — **8×A100 Edition**
+# GPU RDMA Communication Lab — **8×A100**
 
 <p align="left">
   <!-- Replace OWNER/REPO with your GitHub path, e.g., eunki-7/gpu-rdma-comm-lab -->
@@ -11,7 +11,7 @@
 
 **NCCL · RDMA · CUDA-aware MPI (GPUDirect RDMA)**
 
-A deep-dive, hands-on lab that isolates **multi-GPU, multi-node communication** for HPC/AI workloads—now scaled to **10× NVIDIA A100**.
+A deep-dive, hands-on lab that isolates **multi-GPU, multi-node communication** for HPC/AI workloads—now scaled to **8×NVIDIA A100**.
 
 - **NCCL collectives**: AllReduce / AllGather microbenchmarks  
 - **RDMA verbs**: C (libibverbs + librdmacm) ping-pong (latency / throughput)  
